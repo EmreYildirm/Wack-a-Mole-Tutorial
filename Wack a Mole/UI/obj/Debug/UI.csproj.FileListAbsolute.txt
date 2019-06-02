@@ -1,0 +1,13 @@
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\UI\obj\Debug\UI.Form1.resources
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\UI\bin\Debug\UI.exe.config
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\UI\bin\Debug\UI.exe
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\UI\bin\Debug\UI.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\UI\bin\Debug\BLL.dll
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\UI\bin\Debug\BLL.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\UI\obj\Debug\UI.exe
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\UI\obj\Debug\UI.pdb

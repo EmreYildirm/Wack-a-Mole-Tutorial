@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{2EA9432F-B7C9-49D7-96DF-1A86EFECA88B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{38E716DD-0C43-4E2B-8D03-63AD2F3C7268}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA9432F-B7C9-49D7-96DF-1A86EFECA88B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA9432F-B7C9-49D7-96DF-1A86EFECA88B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA9432F-B7C9-49D7-96DF-1A86EFECA88B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA9432F-B7C9-49D7-96DF-1A86EFECA88B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38E716DD-0C43-4E2B-8D03-63AD2F3C7268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E716DD-0C43-4E2B-8D03-63AD2F3C7268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E716DD-0C43-4E2B-8D03-63AD2F3C7268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E716DD-0C43-4E2B-8D03-63AD2F3C7268}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C42947C3-4F9D-41BC-98F9-170741CE49DD}
+	EndGlobalSection
+EndGlobal

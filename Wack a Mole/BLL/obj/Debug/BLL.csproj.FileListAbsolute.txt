@@ -1,0 +1,10 @@
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\BLL\obj\Debug\Interop.WMPLib.dll
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\BLL\bin\Debug\BLL.dll
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\BLL\bin\Debug\BLL.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\BLL\obj\Debug\BLL.dll
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\BLL\obj\Debug\BLL.pdb
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\emrey\OneDrive\Masaüstü\Wack a Mole\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
